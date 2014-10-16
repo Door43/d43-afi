@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[afi:home|Door43 (afi)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-afi|d43-afi repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-afi/archive/master.zip|d43-afi.zip]]
+
+**Recent Changes**
+{{changes>ns = afi}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/afi|Ethnologue data]]
+
